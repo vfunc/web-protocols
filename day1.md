@@ -79,4 +79,5 @@ Escape character is '^]'.
 回车后继续输入：`HOST:www.baidu.com`
 输入完毕后，按两次回车即可。
 
-> [陶辉博客](https://www.taohui.pub/)
+> [陶辉博客](https://www.taohui.pub/)  
+> [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
