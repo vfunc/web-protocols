@@ -56,3 +56,5 @@ HTTP 协议应当在以下属性中取得可接受的均衡：
 
 ### REST 架构下的 Web
 ![image.png](img/day2/03.png)
+
+> [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
