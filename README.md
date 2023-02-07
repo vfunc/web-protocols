@@ -1,6 +1,6 @@
 # web-protocols
 
-- ### 1 月打卡
+#### 1 月打卡
 
 * [《Web 协议详解与抓包实战》学习笔记 Day 1](day1.md)
 * [《Web 协议详解与抓包实战》学习笔记 Day 2](day2.md)
@@ -22,7 +22,7 @@
 * [《Web 协议详解与抓包实战》学习笔记 Day 18](day18.md)
 * [《Web 协议详解与抓包实战》学习笔记 Day 19](day19.md)
 
-- ### 2 月打卡
+#### 2 月打卡
 
 * [WebSocket 解决什么问题](websocket-1.md)
 * [WebSocket 的约束](websocket-2.md)
