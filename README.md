@@ -27,5 +27,6 @@
 * [WebSocket 解决什么问题](websocket-1.md)
 * [WebSocket 的约束](websocket-2.md)
 * [WebSocket 协议格式](websocket-3.md)
+* [如何从 HTTP 升级到 WebSocket](websocket-4.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
