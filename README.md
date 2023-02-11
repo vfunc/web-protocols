@@ -29,5 +29,6 @@
 * [WebSocket 协议格式](websocket-3.md)
 * [如何从 HTTP 升级到 WebSocket](websocket-4.md)
 * [WebSocket 传递消息时的编码格式](websocket-5.md)
+* [WebSocket 会话心跳与会话关闭](websocket-6.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
