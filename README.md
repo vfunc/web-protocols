@@ -32,6 +32,6 @@
 * [WebSocket 会话心跳与会话关闭](websocket-6.md)
 * [HTTP/2 特性概述](websocket-7.md)
 * [如何使用 Wireshark 解密 TLS/SSL 报文](websocket-8.md)
-* [h2c：在 TCP 上从 HTTP/1 升级到 HTTP/2](websocket-9.md)
+* [从 HTTP/1 升级到 HTTP/2](websocket-9.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)

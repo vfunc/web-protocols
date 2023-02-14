@@ -1,4 +1,6 @@
-# h2c：在 TCP 上从 HTTP/1 升级到 HTTP/2
+# 从 HTTP/1 升级到 HTTP/2
+
+## h2c：在 TCP 上从 HTTP/1 升级到 HTTP/2
 
 h2c is HTTP/2 over TCP.
 
@@ -34,5 +36,9 @@ h2c is HTTP/2 over TCP.
 ### 统一的连接过程
 
 ![image.png](img/websocket-9/02.png)
+
+## h2：在 TLS 上从 HTTP/1 升级到 HTTP/2
+
+h2 is HTTP/2 over TLS (protocol negotiation via ALPN).
 
 > 此文章为 2 月 Day9 学习笔记，内容来源于极客时间[《Web 协议详解与抓包实战》](http://gk.link/a/11UWp)，强烈推荐该课程！

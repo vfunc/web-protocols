@@ -45,6 +45,8 @@
   - 使用 http/1.x 的客户端和服务器可以无缝的通过代理方式 转接到 http/2 上。
   - 不识别 http/2 的代理服务器可以将请求降级到 http/1.x
 
+> <https://httpd.apache.org/docs/2.4/howto/http2.html>
+
 ### 主流浏览器对 HTTP/2 的支持程度
 
 * <https://caniuse.com/http2>
