@@ -34,5 +34,6 @@
 * [如何使用 Wireshark 解密 TLS/SSL 报文](websocket-8.md)
 * [从 HTTP/1 升级到 HTTP/2](websocket-9.md)
 * [流、消息、帧的关系](http2-4.md)
+* [帧格式：Stream 流 ID 的作用](http2-5.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
