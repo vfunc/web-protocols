@@ -37,5 +37,6 @@
 * [帧格式：Stream 流 ID 的作用](http2-5.md)
 * [帧格式：帧类型及设置帧的子类型](http2-6.md)
 * [HPACK 如何减少 HTTP 头部的大小](http2-7.md)
+* [HPACK 的编码格式](http2-8.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
