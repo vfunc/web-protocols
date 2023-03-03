@@ -45,5 +45,6 @@
 
 * [RST_STREAM 帧及常见错误码](http2-11.md)
 * [stream 的优先级](http2-12.md)
+* [不同于 TCP 的流量控制](http2-13.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
