@@ -47,5 +47,6 @@
 * [stream 的优先级](http2-12.md)
 * [不同于 TCP 的流量控制](http2-13.md)
 * [HTTP/2 与 gRPC 框架](http2-14.md)
+* [HTTP/2 的问题及 HTTP/3 的意义](http2-15.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
