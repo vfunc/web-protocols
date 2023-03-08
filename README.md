@@ -50,5 +50,6 @@
 * [HTTP/2 的问题及 HTTP/3 的意义](http2-15.md)
 * [七层负载均衡做了些什么](http2-16.md)
 * [TLS/SSL 协议的工作原理](tls-ssl-01.md)
+* [对称加密的工作原理](tls-ssl-02.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
