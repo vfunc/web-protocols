@@ -54,5 +54,6 @@
 * [详解 AES 对称加密算法](tls-ssl-03.md)
 * [非对称密码与 RSA 算法](tls-ssl-04.md)
 * [基于 openssl 实战验证 RSA](tls-ssl-05.md)
+* [非对称密码应用：PKI 证书体系](tls-ssl-06.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
