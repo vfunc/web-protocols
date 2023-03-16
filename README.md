@@ -58,5 +58,6 @@
 * [非对称密码应用：DH 密钥交换协议](tls-ssl-07.md)
 * [ECC 椭圆曲线的原理](tls-ssl-08.md)
 * [基于椭圆曲线的 ECDH 协议](tls-ssl-09.md)
+* [TLS 与量子通讯的原理](tls-ssl-10.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
