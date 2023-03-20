@@ -62,5 +62,6 @@
 * [TCP 解决了哪些问题](tcp-01.md)
 * [TCP 报文格式](tcp-02.md)
 * [如何使用 tcpdump 分析网络报文](tcp-03.md)
+* [三次握手建立连接](tcp-04.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
