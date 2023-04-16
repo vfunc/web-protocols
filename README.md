@@ -92,5 +92,6 @@
 * [多播与 IGMP 协议](ip-09.md)
 * [支持万物互联的 IPv6 地址](ip-10.md)
 * [IPv6 报文及分片](ip-11.md)
+* [从 wireshark 报文统计中找规律](ip-12.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
