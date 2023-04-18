@@ -94,5 +94,6 @@
 * [IPv6 报文及分片](ip-11.md)
 * [从 wireshark 报文统计中找规律](ip-12.md)
 * [如何将业务代码构建为容器镜像](gitops-01.md)
+* [如何将容器镜像部署到K8s](gitops-02.md)
 
 > [课程链接《Web 协议详解与抓包实战》极客时间](http://gk.link/a/11UWp)
